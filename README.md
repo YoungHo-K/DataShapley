@@ -14,23 +14,22 @@ Code for implementation of  ["Data Shapley: Equitable Valuation of Data for Mach
 }
 ```
 ---
-
 ### Prerequisites
 
 - original package: Python, NumPy, Tensorflow 1.12, Scikit-learn, Matplotlib
 
---
+---
 ### Basic Usage
 
 To divide value fairly between individual train data points/sources given the learning algorithm and a meausre of performance for the trained model (test accuracy, etc)
 
---
+---
 ### Authors
 
 * **Amirata Ghorbani** - [Website](http://web.stanford.edu/~amiratag)
 * **James Zou** - [Website](https://www.james-zou.com/)
 
---
+---
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
