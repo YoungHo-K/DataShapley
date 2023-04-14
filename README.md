@@ -1,5 +1,4 @@
 ## Data Shapley: Equitable Valuation of Data for Machine Learning
-=====================================
 
 Code for implementation of  ["Data Shapley: Equitable Valuation of Data for Machine Learning"](https://arxiv.org/pdf/1904.02868.pdf).
 
@@ -16,7 +15,7 @@ Code for implementation of  ["Data Shapley: Equitable Valuation of Data for Mach
 ```
 
 ### Prerequisites
-
+------
 - original package: Python, NumPy, Tensorflow 1.12, Scikit-learn, Matplotlib
 
 ### Basic Usage
